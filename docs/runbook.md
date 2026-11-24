@@ -16,3 +16,7 @@ To publish again, open Actions → Publish documentation → Run workflow.
 
 Identify the stage that failed: CI, site build, artifact upload, or deployment.
 Read the log for that step before retrying.
+
+## Recovery
+
+Review the [incident log](recovery.md) before restoring the site.

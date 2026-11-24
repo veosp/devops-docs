@@ -2,7 +2,7 @@
 
 Sample documentation built from Markdown and published through GitHub Actions.
 
-**Version: 1.**
+**Version: 2.** Updated after fixing the recovery link.
 
 ## Delivery Workflow
 
