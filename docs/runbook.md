@@ -20,3 +20,5 @@ Read the log for that step before retrying.
 ## Recovery
 
 Review the [incident log](incidents.md) before restoring the site.
+
+[Missing page](missing-page.md)
