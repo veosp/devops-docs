@@ -1,0 +1,12 @@
+site_name: DevOps Operations Handbook
+site_description: Sample documentation for verifying and publishing changes
+site_author: veosp
+repo_name: veosp/devops-docs
+repo_url: https://github.com/veosp/devops-docs
+theme:
+  name: mkdocs
+  locale: en
+nav:
+  - Home: index.md
+  - Operations: runbook.md
+  - Incident Log: incidents.md
